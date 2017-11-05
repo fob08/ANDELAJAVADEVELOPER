@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ANDELA JAVA DEVELOPER</string>
+    <string name="internet">no internet connection, ensure that your device is connected</string>
+</resources>
